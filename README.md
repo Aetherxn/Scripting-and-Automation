@@ -8,6 +8,8 @@ I replaced Windows on my lenovo laptop with Ubuntu Linux to gain practical exper
 
 I use this repository to keep track of commands, notes, screenshots, and small things I learn while practicing.
 
+---
+
 ## Experience So Far
 
 - Installed and configured Ubuntu Linux
@@ -17,6 +19,8 @@ I use this repository to keep track of commands, notes, screenshots, and small t
 - Used `sudo` commands for administrative tasks
 - Practiced troubleshooting issues using online documentation and forums
 - Improved confidence working in a command-line environment
+
+---
 
 ## Commands I Commonly Use
 
@@ -34,6 +38,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt autoremove
 ```
 
+---
+
 ## Current Focus
 
 - Becoming more comfortable with the Linux terminal
@@ -42,8 +48,12 @@ sudo apt autoremove
 - Improving troubleshooting and problem-solving skills
 - Documenting new things I learn over time
 
+---
+
 ## Linux Evidence
 
+
+---
 
 ## Notes
 

@@ -16,7 +16,7 @@ I use this repository to keep track of commands, notes, screenshots, and small t
 - Used Linux as a daily operating system
 - Learned basic terminal navigation and file management
 - Performed system updates and package maintenance
-- Used `sudo` commands for administrative tasks
+- Used `sudo` commands for admin tasks
 - Practiced troubleshooting issues using online documentation and forums
 - Improved confidence working in a command-line environment
 

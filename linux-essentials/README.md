@@ -55,11 +55,6 @@ sudo apt autoremove
 
 ---
 
-## Linux Evidence
-
-
----
-
 ## Notes
 
 This repository is mainly a personal learning log to document my Linux practice and gradual progress using Ubuntu.
